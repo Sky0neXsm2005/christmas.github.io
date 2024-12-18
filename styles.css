@@ -3,7 +3,7 @@ body {
     background: linear-gradient(to right, rgb(57, 197, 2), rgb(109, 252, 80));
     margin: 0;
     padding: 0;
-    overflow: hidden;
+    overflow: auto;
     display: flex;
     justify-content: center;
     align-items: center;
